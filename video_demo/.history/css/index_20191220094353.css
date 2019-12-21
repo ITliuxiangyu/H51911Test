@@ -1,0 +1,11 @@
+/* 页面的内容区域部分 */
+.app_content{
+    width: 100vw;
+    height: 300px;
+    background-color: rebeccapurple;
+}
+.app_tabbar{
+    width: 100vw;
+    height: 60px;
+    background-color: lightgoldenrodyellow;
+}

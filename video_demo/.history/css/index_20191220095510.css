@@ -1,0 +1,26 @@
+/* 页面的内容区域部分 */
+.app_content{
+    width: 100vw;
+    background-color: rebeccapurple;
+}
+.app_tabbar{
+    width: 100vw;
+    height: 60px;
+    background-color: lightgoldenrodyellow;
+    position: fixed;
+    bottom: 0px;
+    display: flex;
+}
+/* 底部的四个小块 */
+.tabbar_item{
+    flex: 1;
+    border: 1px solid black;
+}
+.tabbar_item div{
+    border: 1px solid red;
+    height: 10px;
+}
+.tabbar_item div img{
+    width: 50%;
+    border: 1px solid blue;
+}

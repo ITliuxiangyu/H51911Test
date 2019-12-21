@@ -1,0 +1,6 @@
+/* 页面的内容区域部分 */
+.app_content{
+    width: 100vw;
+    height: 300px;
+    background-color: rebeccapurple;
+}
